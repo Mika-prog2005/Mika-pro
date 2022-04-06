@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+
+    <h1 style="font-size:50px">Ik ben Mika Stevens</h1>
+    <p>eindexamenjaar 2022</p>
+
+  </div>
+</div>
+
+</body>
+</html>
+<html lang="nl">
+    <font size="+2">
+        <b>
+        <head>
+<title>De titel van je webpagina</title>
+<meta charset="utf-8">
+<meta name="description" content="beschrijving van je webpagina">
+<meta name="viewport" content="initial-scale=1.0, width=device-width">
+<link rel="stylesheet" href="basis.css" type="text/css" media="screen">
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+</head>
+
+<body>
+
+                             <header><h1></h1></header>
+
+
+
+<h1>Wie is Mika?</h1>
+<p>Mika is geboren op 15 april 2005 in Lelystad. Hij heeft een zus van 24 jaar en twee zusjes van 7 en 3 jaar.
+Hij woont de helft van de week bij zijn vader in Lelystad en de andere helft van de week bij zijn moeder en stiefvader in Almere.
+Mika zit nu in het eindexamen klas van 4TL op het Porteum in Lelystad, zijn droom is om Game Developer te worden.
+   </p>
+   <h1>Hobby's</h1>
+
+<li>Mika is een rustige jongen die van muziek maken (piano spelen) houdt en van liedjes schrijven en zingen.</li>
+<li>Maar zijn grootste passie is vissen</li>
+
+
+<p>Sinds een paar maanden heeft hij een bijbaantje en jawel; in een sportvis winkel!
+     <a href="https://flysupply.nl">flysupply</a>
+    
+    <img src="https://hosting.photobucket.com/images/i/Mika-pro2005/flysupply.jpg" alt="alternatetext">
+   
+    Verder houdt hij ervan om zo vaak als mogelijk naar Spanje te gaan en ook daar te vissen!
+
+    
+<!DOCTYPE html>
+
+
+<html>
+<head>
+<style>
+body {
+  font-family: Copperplate, Papyrus, fantasy;
+}
+</style>
+</head>
+<body>
+    
+    <img src="https://hosting.photobucket.com/images/i/Mika-pro2005/Mikaspanje.jpg" alt="alternatetext">
+
+</body>
+</html>
+
+<p>Ook heeft hij 2 gekke huisdieren een hond genaamd Gappie en een poes Fittie</p>
+
+
+
+
+<img src="https://hosting.photobucket.com/images/i/Mika-pro2005/gap.jpg" alt="alternatetext">
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
+
+
+
+</body>
+<html>
+<head>
+<style>
+body {
+  color: rgb(2, 2, 36);
+}
+
+h1 {
+  color: rgb(0, 34, 128);
+}
+</style>
+</head>
+<body>
+
+
+
+</body>
+</html>
+
